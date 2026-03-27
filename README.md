@@ -1,5 +1,4 @@
-# Project's name : 
-#JSON API Cleaning & Logging
+# Project's name : JSON API Cleaning & Logging
 
 # Objectives : 
 This project fetches user data from a public API, processes and cleans nested JSON structures, removes unwanted keys, adds a generated age field, and stores the transformed data into a structured JSON file with a proper logging system.
